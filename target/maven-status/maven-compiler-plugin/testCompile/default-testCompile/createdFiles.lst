@@ -1,0 +1,12 @@
+com\test\medicare\SignUpPage.class
+com\test\medicare\MedicareAppAdminUserTest.class
+com\test\medicare\MedicareEndUser.class
+com\test\medicare\HomePage.class
+com\test\medicare\MedicareAppEndUserTest.class
+com\test\medicare\Products.class
+com\test\medicare\CartPage.class
+com\test\medicare\CheckoutPageOne.class
+com\test\medicare\CheckoutPageTwo.class
+com\test\medicare\EditProductPage.class
+com\test\medicare\LoginPage.class
+com\test\medicare\ManageProducts.class
